@@ -1,0 +1,10 @@
+name: DP-ItemCollection
+version: 1.1.0
+main: com.darksoldier1404.dpic.ItemCollection
+authors: [ DEAD_POOLIO_ ]
+api-version: 1.20
+depend:
+  - DPP-Core
+  - PlaceholderAPI
+commands:
+  dpic:
